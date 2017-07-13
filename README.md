@@ -6,6 +6,10 @@ Update your ROM's TZdata systemlessly. There is no XDA support thread for this o
 
 ### Changelog:
 
+#### v2
+
+>Updated to template 4
+
 #### v1
 
 >TZData updated to 2017B
