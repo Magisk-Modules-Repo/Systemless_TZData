@@ -51,6 +51,11 @@ LATESTARTSERVICE=false
 print_modname() {
   ui_print "*******************************"
   ui_print "   Systemless TZData Updater   "
+  ui_print "   No one will ever see this   "
+  ui_print "   Unless they look in Github  "
+  ui_print " So I will hide a message here:"
+  ui_print "  Rem is and always will be    "
+  ui_print "           Best Girl           "
   ui_print "*******************************"
 }
 
