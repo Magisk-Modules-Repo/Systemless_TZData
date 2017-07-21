@@ -6,6 +6,10 @@ Update your ROM's TZdata systemlessly. There is no XDA support thread for this o
 
 ### Changelog:
 
+#### v3
+
+>Update for Magisk Manager 5.1.0
+
 #### v2
 
 >Updated to template 4
