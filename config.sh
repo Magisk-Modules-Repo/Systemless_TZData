@@ -45,7 +45,7 @@ print_modname() {
   ui_print "         +-+-+-+-+-+-+         "
   ui_print "         |T|Z|D|A|T|A|         "
   ui_print "         +-+-+-+-+-+-+         "
-  ui_print "   Systemless TZData Updater   "
+  ui_print "   Systemless TZdata Updater   "
   ui_print "         By: Ryaniskira        "
   ui_print "*******************************"
 }
