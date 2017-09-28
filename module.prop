@@ -1,7 +1,7 @@
 id=Systemless_TZData
 name=Systemless TZData
 version=2017B
-versionCode=4
+versionCode=5
 author=Ryaniskira
 description=Update your ROM's tzdata (timezone data) file systemlessly.
-template=1400
+template=1410

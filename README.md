@@ -6,9 +6,15 @@ Update your ROM's TZdata systemlessly. There is no XDA support thread for this o
 
 ### Changelog:
 
+#### v4
+
+>Template 1410
+
+>Please update to Magisk 14.1 or hold back. The TZData has not updated just the templte so you're not losing out by holding back
+
 #### v3
 
->Updated to template 1400
+>Ttemplate 1400
 
 >Please update to Magisk 14.0 if you have not already
 
@@ -18,4 +24,4 @@ Update your ROM's TZdata systemlessly. There is no XDA support thread for this o
 
 #### v1
 
->TZData updated to 2017B
+>TZData 2017B
