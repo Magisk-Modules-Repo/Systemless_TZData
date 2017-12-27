@@ -4,4 +4,4 @@ version=2017C
 versionCode=7
 author=Ryaniskira
 description=Update your ROM's tzdata (timezone data) file systemlessly.
-template=1500
+minMagisk=1500
