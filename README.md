@@ -6,6 +6,9 @@ Update your ROM's TZdata systemlessly. This will fix DST (daylight savings time)
 
 ### Changelog:
 
+#### v8
+>TZData 2018G
+
 #### v7
 >TZData 2018F
 
