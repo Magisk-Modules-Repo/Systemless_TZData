@@ -6,10 +6,16 @@ Update your ROM's TZdata systemlessly. This will fix DST (daylight savings time)
 
 ### Changelog:
 
+#### v9
+
+>Updated to MagiskInstaller template
+
 #### v8
+
 >TZData 2018G
 
 #### v7
+
 >TZData 2018F
 
 #### v6
