@@ -122,13 +122,16 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "         +-+-+-+-+-+-+         "
-  ui_print "         |T|Z|D|A|T|A|         "
-  ui_print "         +-+-+-+-+-+-+         "
-  ui_print "   Systemless TZdata Updater   "
-  ui_print "         By: Ryaniskira        "
-  ui_print "*******************************"
+  ui_print   "***************************************"
+  ui_print   "*  _____ _________    _  _____  _     *"    
+  ui_print   "* |_   _|__  /  _ \  / \|_   _|/ \    *"   
+  ui_print   "*   | |   / /| | | |/ _ \ | | / _ \   *"  
+  ui_print   "*   | |  / /_| |_| / ___ \| |/ ___ \  *"
+  ui_print   "*   |_| /____|____/_/   \_\_/_/   \_\ *"
+  ui_print   "*     ~Systemless TZdata Updater~     *"
+  ui_print   "*          ~By: Ryaniskira~           *"
+  ui_print   "*                                     *"
+  ui_print   "***************************************"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
