@@ -129,7 +129,7 @@ print_modname() {
   ui_print   "*   | |  / /_| |_| / ___ \| |/ ___ \  *"
   ui_print   "*   |_| /____|____/_/   \_\_/_/   \_\ *"
   ui_print   "*     ~Systemless TZdata Updater~     *"
-  ui_print   "*          ~By: Ryaniskira~           *"
+  ui_print   "*      ~By:Ryaniskira & nkh0472~      *"
   ui_print   "*                                     *"
   ui_print   "***************************************"
 }
