@@ -1,6 +1,6 @@
 id=Systemless_TZData
 name=Systemless TZData
-version=2020A
-versionCode=13
-author=Ryaniskira
+version=2020D
+versionCode=14
+author=Ryaniskira & nkh0472
 description=Update your ROM's tzdata (timezone data) file systemlessly.
