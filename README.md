@@ -12,6 +12,8 @@ The latest tzdata file could be found from [here](https://android.googlesource.c
 
 >Adding tz_version file for 2020D
 
+>Clean useless file
+
 #### V14
 
 >Updated to TZData 2020D
