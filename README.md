@@ -4,10 +4,11 @@ Update your ROM's TZdata systemlessly. This will fix DST (daylight savings time)
 
 The latest tzdata file could be found from [here](https://android.googlesource.com/platform/system/timezone/+/refs/heads/master/output_data/iana/), and the corresponding tz_version file could be found from [here](https://android.googlesource.com/platform/system/timezone/+/refs/heads/master/output_data/version/).
 
-NOTICE:
+>NOTICE:
 The Time Zone Data module contains two part of it: tzdata and icudtXXl.dat.
-This app DOES NOT update tzdata in ICU (as icudtXXl.dat),  but for bionic (as tzdata).
-Because icudtXXl.dat not only varies according to the Android version but also to different customized UI.
+This app DOES NOT update timezone data for ICU (as icudtXXl.dat),  but for bionic (as tzdata).
+
+>Because icudtXXl.dat not only varies according to the Android version but also to different customized UI.
 Simply replace it might cause some serious problems such as system UI crashing. 
 If you do need to update this file, you might need to compile this file and test it at your own risk.
 For more detail, you could find it from [here](https://source.android.com/devices/tech/config/timezone-rules).
