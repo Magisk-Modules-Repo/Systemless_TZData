@@ -6,7 +6,7 @@ The latest tzdata file could be found from [here](https://android.googlesource.c
 
 NOTICE:
 The Time Zone Data module contains two part of it: tzdata and icudtXXl.dat.
-This app DOES NOT update tzdata in ICU (as icudtXXl.dat),  but for bionic.
+This app DOES NOT update tzdata in ICU (as icudtXXl.dat),  but for bionic (as tzdata).
 Because icudtXXl.dat not only varies according to the Android version but also to different customized UI.
 Simply replace it might cause some serious problems such as system UI crashing. 
 If you do need to update this file, you might need to compile this file and test it at your own risk.
