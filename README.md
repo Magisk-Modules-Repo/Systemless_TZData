@@ -10,7 +10,7 @@ The latest tzdata file could be found from [here](https://android.googlesource.c
 
 #### V15
 
->Adding tz_version file
+>Adding tz_version file for 2020D
 
 #### V14
 
