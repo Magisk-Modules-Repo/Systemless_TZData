@@ -2,15 +2,9 @@
 
 Update your ROM's TZdata systemlessly. This will fix DST (daylight savings time) in many countries. There is no XDA support thread for this one due to the module's simplicity, and I will release an update when I see that there is an available TZData update.
 
-The latest tzdata file could be found from [here](https://android.googlesource.com/platform/system/timezone/+/refs/heads/master/output_data/iana/).
-
 
 
 ### Changelog:
-
-#### V14
-
->Updated to TZData 2020D
 
 #### V13
 
