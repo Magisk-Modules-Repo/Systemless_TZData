@@ -11,7 +11,7 @@ This app DOES NOT update timezone data for ICU (as icudtXXl.dat),  but for bioni
 >Because icudtXXl.dat not only varies according to the Android version but also to different customized UI.
 Simply replace it might cause some serious problems such as system UI crashing. 
 If you do need to update this file, you might need to compile this file and test it at your own risk.
-For more detail, you could find it from [here](https://source.android.com/devices/tech/config/timezone-rules).
+For more detail, you could find it from [Time Zone Rules | Android Open Source Project](https://source.android.com/devices/tech/config/timezone-rules).
 
 =======
 
