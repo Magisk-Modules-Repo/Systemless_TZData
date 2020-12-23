@@ -13,13 +13,10 @@ Simply replace it might cause some serious problems such as system UI crashing.
 If you do need to update this file, you might need to compile this file and test it at your own risk.
 For more detail, you could find it from [here](https://source.android.com/devices/tech/config/timezone-rules).
 
+=======
 
 
 ### Changelog:
-
-#### V14
-
->Updated to TZData 2020D
 
 #### V13
 
