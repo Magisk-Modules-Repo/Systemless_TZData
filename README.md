@@ -2,7 +2,11 @@
 
 Update your ROM's TZdata systemlessly. This will fix DST (daylight savings time) in many countries. There is no XDA support thread for this one due to the module's simplicity, and I will release an update when I see that there is an available TZData update. See [IANA — Time Zone Database](http://www.iana.org/time-zones/) for more about the source of this data.
 
-The latest tzdata file builds by Google could be found from [here](https://android.googlesource.com/platform/system/timezone/+/refs/heads/master/output_data/iana/), and the corresponding tz_version file could be found from [here](https://android.googlesource.com/platform/system/timezone/+/refs/heads/master/output_data/version/). You also can build & test them by your own using scripts provided by Google [here](https://android.googlesource.com/platform/system/timezone/+/refs/heads/master).
+**Warning:**
+
+The tzdata file is Android-branch-relative, so I can't guarantee this module could work on your phone. **You need to be properly prepared to deal with the potential risk of not being able to boot!** The feasible methods include: installing the MM module (with the recovery that can execute scripts) or manually deleting the module folder (with the recovery with the file manager function). 
+
+You can build & test them using scripts on your own branch. The example on **AOSP master branch** could be found [here](https://android.googlesource.com/platform/system/timezone/), however I can't guarantee that this script will run on Android systems other than this branch.
 
 >NOTICE:
 The Time Zone Data module contains two part of it: tzdata and icudtXXl.dat.
