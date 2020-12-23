@@ -1,6 +1,6 @@
 # Systemless TZData
 
-Update your ROM's TZdata systemlessly. This will fix DST (daylight savings time) in many countries. There is no XDA support thread for this one due to the module's simplicity, and I will release an update when I see that there is an available TZData update.
+Update your ROM's TZdata systemlessly. This will fix DST (daylight savings time) in many countries. There is no XDA support thread for this one due to the module's simplicity, and I will release an update when I see that there is an available TZData update. See [IANA — Time Zone Database](http://www.iana.org/time-zones/) for more about the source of this data.
 
 The latest tzdata file could be found from [here](https://android.googlesource.com/platform/system/timezone/+/refs/heads/master/output_data/iana/), and the corresponding tz_version file could be found from [here](https://android.googlesource.com/platform/system/timezone/+/refs/heads/master/output_data/version/).
 
