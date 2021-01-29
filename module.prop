@@ -1,6 +1,6 @@
 id=Systemless_TZData
 name=Systemless TZData
-version=2020A&F
-versionCode=16
+version=2021A&2020A
+versionCode=17
 author=Ryaniskira & Nkh0472 & GrayJackFixxxer
 description=Update your ROM's tzdata (timezone data) file systemlessly. 2020F is installed on Android 10 and above, 2020A is installed on older versions.
