@@ -6,6 +6,10 @@ Update your ROM's TZdata systemlessly. This will fix DST (daylight savings time)
 
 ### Changelog:
 
+#### V17
+
+>Updated to TZData 2021A (ONLY WORK ON ANDROID 10 AND ABOVE). Older Android will get 2020A.
+
 #### V16
 
 >Added logic to work with both Android 9 and older versions - and Android 10 and newer ones.
